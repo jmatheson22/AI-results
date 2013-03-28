@@ -1,0 +1,1416 @@
+
+Generation: 0
+Best error: 22
+Term: (* (* x y) y)
+Points: 5
+Average points: 9.742
+
+Generation: 1
+Best error: 17
+Term: (* (* x y) (* (* (* (* y (* (* x y) y)) y) y) z))
+Points: 17
+Average points: 37.572
+
+Generation: 2
+Best error: 15
+Term: (* (* (* (* x y) y) y) (* (* (* (* y (* (* x y) y)) y) y) z))
+Points: 21
+Average points: 46.268
+
+Generation: 3
+Best error: 15
+Term: (* (* (* (* x y) y) y) (* (* (* (* y (* (* x y) y)) y) y) z))
+Points: 21
+Average points: 50.318
+
+Generation: 4
+Best error: 12
+Term: (* (* y (* (* (* (* (* (* z (* z (* (* (* y (* y (* (* x z) (* y z)))) z) y))) (* (* (* y (* (* (* (* x y) y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* y x) (* (* z z) x)))) (* z z)) (* (* y (* (* (* y y) y) z)) x)) x)) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 111
+Average points: 52.408
+
+Generation: 5
+Best error: 10
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* (* x y) y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* z x) x) (* (* z z) x)))) (* z z)) (* (* y (* (* (* y y) y) z)) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 103
+Average points: 61.378
+
+Generation: 6
+Best error: 9
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* z x) x) (* (* z z) x)))) (* z z)) (* (* y (* (* (* y y) y) z)) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 101
+Average points: 68.366
+
+Generation: 7
+Best error: 9
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* z x) x) (* (* z z) x)))) (* z z)) (* (* y (* (* (* y y) y) z)) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 101
+Average points: 69.602
+
+Generation: 8
+Best error: 8
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* z z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* z x) x) (* (* z z) x)))) (* z z)) (* (* y (* (* (* y y) y) z)) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 101
+Average points: 75.466
+
+Generation: 9
+Best error: 8
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* z x) x) (* (* z z) x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 95
+Average points: 77.9
+
+Generation: 10
+Best error: 7
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* (* z z) x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 129
+Average points: 82.356
+
+Generation: 11
+Best error: 7
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* (* z z) x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 129
+Average points: 90.212
+
+Generation: 12
+Best error: 7
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* (* z z) x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 143
+Average points: 94.81
+
+Generation: 13
+Best error: 7
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* (* z z) x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 143
+Average points: 99.924
+
+Generation: 14
+Best error: 7
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* (* z z) x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 143
+Average points: 100.362
+
+Generation: 15
+Best error: 7
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* z x) x) (* (* z z) x)))) (* z (* z y))) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 97
+Average points: 102.324
+
+Generation: 16
+Best error: 7
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* z x) x) (* (* z z) x)))) (* z (* z y))) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 97
+Average points: 106.632
+
+Generation: 17
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 109.206
+
+Generation: 18
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 117.938
+
+Generation: 19
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 125.472
+
+Generation: 20
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 126.748
+
+Generation: 21
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 132.214
+
+Generation: 22
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 132.86
+
+Generation: 23
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 135.464
+
+Generation: 24
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 137.552
+
+Generation: 25
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 143.612
+
+Generation: 26
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 144.808
+
+Generation: 27
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 148.658
+
+Generation: 28
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 149.866
+
+Generation: 29
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 148.944
+
+Generation: 30
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 153.988
+
+Generation: 31
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 155.532
+
+Generation: 32
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 154.328
+
+Generation: 33
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 156.104
+
+Generation: 34
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 157.344
+
+Generation: 35
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 155.604
+
+Generation: 36
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 156.162
+
+Generation: 37
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 159.464
+
+Generation: 38
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 160.988
+
+Generation: 39
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 165.29
+
+Generation: 40
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 168.456
+
+Generation: 41
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 170.164
+
+Generation: 42
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 172.882
+
+Generation: 43
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 176.29
+
+Generation: 44
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 174.87
+
+Generation: 45
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 179.056
+
+Generation: 46
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 179.544
+
+Generation: 47
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 183.386
+
+Generation: 48
+Best error: 6
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* z y) (* x z)) y)) (* (* x (* y (* z (* (* z y) x)))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* (* z (* (* x x) (* z (* (* (* z z) z) z)))) (* (* (* (* (* (* (* x (* (* z y) (* (* (* x x) y) y))) (* (* x (* (* z y) (* x x))) y)) z) (* (* y (* z x)) y)) y) x) (* x x)))) (* z z)) (* (* y y) x)) (* x y))) y) y)) z))) (* x y)) (* x y)) z) y)) (* x (* x x)))
+Points: 141
+Average points: 182.574
+
+Generation: 49
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 187.806
+
+Generation: 50
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 186.716
+
+Generation: 51
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 190.33
+
+Generation: 52
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 188.992
+
+Generation: 53
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 189.634
+
+Generation: 54
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 191.354
+
+Generation: 55
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 193.89
+
+Generation: 56
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 190.604
+
+Generation: 57
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 200.934
+
+Generation: 58
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 195.708
+
+Generation: 59
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 204.822
+
+Generation: 60
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 207.252
+
+Generation: 61
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 200.934
+
+Generation: 62
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 204.01
+
+Generation: 63
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 209.958
+
+Generation: 64
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 209.878
+
+Generation: 65
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 210.794
+
+Generation: 66
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 216.796
+
+Generation: 67
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 217.55
+
+Generation: 68
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 219.41
+
+Generation: 69
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 230.406
+
+Generation: 70
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 230.198
+
+Generation: 71
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 231.594
+
+Generation: 72
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 227.956
+
+Generation: 73
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 230.89
+
+Generation: 74
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 232.596
+
+Generation: 75
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 234.25
+
+Generation: 76
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 227.564
+
+Generation: 77
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 230.41
+
+Generation: 78
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 232.576
+
+Generation: 79
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 236.96
+
+Generation: 80
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 232.61
+
+Generation: 81
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 234.024
+
+Generation: 82
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 233.506
+
+Generation: 83
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 241.71
+
+Generation: 84
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 233.836
+
+Generation: 85
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 241.512
+
+Generation: 86
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 238.982
+
+Generation: 87
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 243.902
+
+Generation: 88
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 236.92
+
+Generation: 89
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 248.642
+
+Generation: 90
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 241.972
+
+Generation: 91
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 247.356
+
+Generation: 92
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 243.412
+
+Generation: 93
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 248.164
+
+Generation: 94
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 242.76
+
+Generation: 95
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 251.346
+
+Generation: 96
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 241.824
+
+Generation: 97
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 245.07
+
+Generation: 98
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 244.028
+
+Generation: 99
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 243.322
+
+Generation: 100
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 250.452
+
+Generation: 101
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 249.128
+
+Generation: 102
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 246.498
+
+Generation: 103
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 249.696
+
+Generation: 104
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 245.51
+
+Generation: 105
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 246.812
+
+Generation: 106
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 217
+Average points: 249.498
+
+Generation: 107
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 248.038
+
+Generation: 108
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 249.32
+
+Generation: 109
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 256.756
+
+Generation: 110
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 341
+Average points: 252.778
+
+Generation: 111
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 250.618
+
+Generation: 112
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 249.186
+
+Generation: 113
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 254.3
+
+Generation: 114
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 235
+Average points: 249.612
+
+Generation: 115
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 385
+Average points: 247.52
+
+Generation: 116
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 250.88
+
+Generation: 117
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 359
+Average points: 250.942
+
+Generation: 118
+Best error: 5
+Term: (* (* y (* (* (* (* (* (* z (* z (* x y))) (* (* (* y (* (* (* x y) (* x z)) y)) (* (* x (* y (* z (* (* (* (* (* y (* y y)) x) (* (* z z) z)) y) (* (* (* z y) (* (* x (* (* x (* x (* y y))) z)) z)) (* (* y (* x y)) (* z (* y (* (* z x) (* (* z y) z)))))))))) z)) (* (* x (* (* (* x (* (* (* (* (* x y) (* x (* (* (* (* x y) x) x) (* (* y z) x)))) (* z z)) (* (* y y) (* (* (* x (* (* x (* x x)) (* (* z x) z))) (* (* (* z (* (* x (* y (* x z))) (* z x))) z) (* x (* x z)))) z))) (* x y))) y) y)) z))) (* x y)) (* x y)) x) y)) (* (* (* z (* z z)) y) y))
+Points: 185
+Average points: 251.674
+
+Generation: 119
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 385
+Average points: 249.412
+
+Generation: 120
+Best error: 5
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z (* (* y (* y (* (* (* (* x x) (* y (* x (* (* z z) (* x z))))) (* y x)) z))) x))) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x z) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* (* y (* z x)) (* (* (* z z) z) y))) (* (* (* x (* x y)) (* x x)) z)) (* z y))))) (* (* z (* y z)) (* (* z x) (* z (* y (* (* y (* (* (* x x) (* x (* x (* (* z z) (* (* y (* y (* x y))) z))))) z)) (* (* y y) (* (* x (* (* z x) (* y x))) (* (* x x) (* x (* y (* (* x (* x x)) (* x (* y y)))))))))))))) x) z) (* y y)) z) y)) z)))))
+Points: 427
+Average points: 254.934
+
+Generation: 121
+Best error: 4
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 359
+Average points: 255.624
+
+Generation: 122
+Best error: 4
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 359
+Average points: 254.628
+
+Generation: 123
+Best error: 4
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* (* (* (* (* x (* z z)) z) y) (* x (* (* (* (* (* (* (* x x) (* (* y (* x (* y z))) (* (* y y) y))) y) (* (* z (* z y)) (* z (* x x)))) z) z) x))) y) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 359
+Average points: 248.928
+
+Generation: 124
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 253.122
+
+Generation: 125
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 236.684
+
+Generation: 126
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 243.52
+
+Generation: 127
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 244.99
+
+Generation: 128
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 243.254
+
+Generation: 129
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 243.912
+
+Generation: 130
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 244.4
+
+Generation: 131
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 243.042
+
+Generation: 132
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 246.368
+
+Generation: 133
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 247.398
+
+Generation: 134
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 244.43
+
+Generation: 135
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 248.598
+
+Generation: 136
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 242.386
+
+Generation: 137
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 249.058
+
+Generation: 138
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 249.374
+
+Generation: 139
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 247.446
+
+Generation: 140
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 248.192
+
+Generation: 141
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 248.62
+
+Generation: 142
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 246.018
+
+Generation: 143
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 253.462
+
+Generation: 144
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 249.492
+
+Generation: 145
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 247.73
+
+Generation: 146
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 250.858
+
+Generation: 147
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 254.374
+
+Generation: 148
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 253.432
+
+Generation: 149
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 256.058
+
+Generation: 150
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 251.828
+
+Generation: 151
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 257.136
+
+Generation: 152
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 255.692
+
+Generation: 153
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 249.836
+
+Generation: 154
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 253.914
+
+Generation: 155
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 256.292
+
+Generation: 156
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 254.96
+
+Generation: 157
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 256.356
+
+Generation: 158
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 255.772
+
+Generation: 159
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 253.792
+
+Generation: 160
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 252.19
+
+Generation: 161
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 260.9
+
+Generation: 162
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 257.686
+
+Generation: 163
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 256.288
+
+Generation: 164
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 256.962
+
+Generation: 165
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 258.216
+
+Generation: 166
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 258.32
+
+Generation: 167
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 260.38
+
+Generation: 168
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 255.286
+
+Generation: 169
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 259.112
+
+Generation: 170
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 258.61
+
+Generation: 171
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 257.954
+
+Generation: 172
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 255.58
+
+Generation: 173
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 258.442
+
+Generation: 174
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 256.926
+
+Generation: 175
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 258.18
+
+Generation: 176
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 253.58
+
+Generation: 177
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 259.514
+
+Generation: 178
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 257.254
+
+Generation: 179
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 257.796
+
+Generation: 180
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 261.512
+
+Generation: 181
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 253.984
+
+Generation: 182
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 259.556
+
+Generation: 183
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 257.334
+
+Generation: 184
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 256.852
+
+Generation: 185
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 259.55
+
+Generation: 186
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 255.162
+
+Generation: 187
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 257.17
+
+Generation: 188
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 258.708
+
+Generation: 189
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 257.672
+
+Generation: 190
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 261.78
+
+Generation: 191
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 259.878
+
+Generation: 192
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 261.194
+
+Generation: 193
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 258.224
+
+Generation: 194
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 259.826
+
+Generation: 195
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 258.608
+
+Generation: 196
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 262.198
+
+Generation: 197
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 260.014
+
+Generation: 198
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 261.92
+
+Generation: 199
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 261.972
+
+Generation: 200
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 261.314
+
+Generation: 201
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 262.98
+
+Generation: 202
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 261.798
+
+Generation: 203
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 264.354
+
+Generation: 204
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 263.902
+
+Generation: 205
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 259.756
+
+Generation: 206
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 264.584
+
+Generation: 207
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 263.51
+
+Generation: 208
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 265.122
+
+Generation: 209
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 263.214
+
+Generation: 210
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 264.084
+
+Generation: 211
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 264.308
+
+Generation: 212
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 266.872
+
+Generation: 213
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 266.498
+
+Generation: 214
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 269.34
+
+Generation: 215
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 270.122
+
+Generation: 216
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* (* x (* (* (* z z) y) y)) y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 305
+Average points: 265.752
+
+Generation: 217
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 269.344
+
+Generation: 218
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 265.716
+
+Generation: 219
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 266.074
+
+Generation: 220
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 266.666
+
+Generation: 221
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 265.46
+
+Generation: 222
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 265.396
+
+Generation: 223
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 258.304
+
+Generation: 224
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 262.796
+
+Generation: 225
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 268.018
+
+Generation: 226
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* y y) (* z z)) (* x (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x x))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* y z) z) (* z (* y z))) z)))) y))))) (* z x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 277
+Average points: 266.158
+
+Generation: 227
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 265.584
+
+Generation: 228
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 265.454
+
+Generation: 229
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 269.038
+
+Generation: 230
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x z) y) (* x z)) (* x (* (* y z) z)))) z) (* y (* x (* y (* (* z (* y (* z x))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 211
+Average points: 260.21
+
+Generation: 231
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x z) y) (* x z)) (* x (* (* y z) z)))) z) (* y (* x (* y (* (* z (* y (* z x))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 211
+Average points: 264.702
+
+Generation: 232
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* (* z (* x (* z (* z y)))) y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 305
+Average points: 264.988
+
+Generation: 233
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* y (* (* z y) (* (* (* y (* (* x z) x)) (* (* y x) (* (* z x) (* (* (* (* z y) (* z z)) (* (* z y) y)) (* (* (* y x) (* x z)) (* y (* z y))))))) (* x y)))) y) (* z z)) (* y (* (* y z) z)))) z) (* (* (* y (* x y)) (* y (* x (* (* z x) z)))) (* (* (* x x) z) (* y (* (* x (* y (* x (* (* (* (* z y) z) (* z (* y z))) z)))) y))))) (* z x))) (* y (* (* (* (* y (* (* (* z z) y) x)) y) x) (* (* z y) y)))) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 311
+Average points: 260.942
+
+Generation: 234
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* x (* y y)) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z z))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* (* (* x x) z) (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* x (* y (* (* x (* (* x x) y)) y))) (* z (* z x)))) y) (* y y)) y)) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 255
+Average points: 262.144
+
+Generation: 235
+Best error: 3
+Term: (* (* y (* (* (* (* y (* y (* (* z y) y))) (* z y)) (* (* x (* z z)) (* (* (* z x) y) (* x (* (* (* y (* (* (* (* z (* (* (* (* z z) y) (* x z)) (* x (* (* y (* (* x (* y (* y (* (* (* y (* y z)) (* (* (* (* z z) y) (* z (* z (* (* y y) (* z x))))) y)) (* x (* x (* (* (* x x) z) z))))))) z)) z)))) z) (* y (* x (* y (* (* z (* y (* x z))) y))))) (* x x))) x) z))))) (* y (* z (* (* (* (* y z) x) (* y z)) (* y y)))))) (* z (* (* y x) (* z (* (* y (* (* (* (* (* (* (* y (* z (* (* (* y (* (* (* (* x (* (* z (* y (* (* x (* (* x x) y)) y))) (* z (* (* z (* (* (* (* (* y z) y) (* (* z z) (* x z))) (* z (* (* z z) (* y y)))) y)) x)))) y) (* y y)) (* y (* (* (* z z) x) (* (* z z) (* x (* y y))))))) (* z (* (* y z) y))) (* (* (* (* x y) (* y (* (* (* z z) z) y))) (* x z)) (* z y))))) (* (* z (* (* y (* (* y z) (* z z))) z)) (* (* z x) (* z (* y (* y y)))))) x) z) (* y y)) z) y)) z)))))
+Points: 297
+Average points: 264.412

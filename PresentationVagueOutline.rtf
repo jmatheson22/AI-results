@@ -1,0 +1,98 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 current work:\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 (evolve-term pixley-errors a1 500 10000 10 30)\
+\
+Generation: 85\
+Best error: 0\
+Term: (* (* (* y (* (* (* y x) x) (* (* x (* (* (* z z) z) (* (* (* y (* (* (* z z) x) y)) (* z (* (* y z) (* z (* x z))))) (* (* (* y (* (* (* x z) (* y z)) (* z z))) (* z z)) x)))) z))) z) (* (* z (* (* (* x (* x (* z (* (* (* (* z y) y) z) (* x (* (* (* (* (* (* x y) x) x) z) (* z (* y x))) x)))))) y) (* (* y x) x))) (* (* (* (* y (* y (* (* (* (* (* z (* z z)) (* (* z x) x)) (* x x)) (* (* y (* z (* z z))) y)) x))) (* y z)) (* (* z x) y)) (* (* (* y (* z (* (* x y) z))) x) z))))\
+Points: 161\
+Average points: 138.352\
+Success!\
+\
+\pard\pardeftab720
+
+\f1\fs26 \cf2 This result is for b1 mal'cev. \
+(evolve-term mal'cev-errors b1 1000 1000 50 20)\
+\
+Generation: 104\
+Best error: 0\
+Term: (* (* z (* (* x (* y (* (* z (* (* z z) (* (* (* z z) z) (* (* z (* x (* (* y y) (* z z)))) (* (* y (* (* z z) y)) (* (* y y) (* z y))))))) (* x (* (* x (* (* y z) (* (* y z) y))) y))))) y)) (* (* (* y (* (* x (* (* (* (* z (* z (* (* (* z y) y) (* (* (* (* (* y x) (* (* (* y z) (* z y)) y)) (* y y)) x) x)))) (* x y)) x) y)) (* (* y (* y (* (* z (* y (* z (* z (* y (* (* (* (* y z) (* y (* x z))) z) x)))))) z))) x))) z) x))\
+Points: 143\
+Average points: 187.566\
+Success!\
+\{:success true, :generation 104, :nanoseconds 4824330090973\}\
+\
+\
+Pixley b1 solved!\
+(evolve-term pixley-errors b1 1000 1000 50 20)\
+\
+Generation: 142\
+Best error: 0\
+Term: (* (* z (* (* (* (* (* (* (* (* z (* x y)) (* y (* (* (* x (* y x)) z) x))) (* y (* y (* z (* (* (* (* z (* x (* x y))) (* (* (* (* (* x (* z z)) z) z) (* (* (* (* x y) (* z z)) (* x (* (* x (* x (* (* z (* (* (* (* (* x z) z) (* (* (* (* (* (* y (* (* z (* x x)) z)) (* x x)) z) y) x) (* (* x z) (* (* (* z x) z) (* (* (* (* x x) y) (* (* z y) z)) (* (* x (* x y)) x)))))) z) (* x (* (* (* z z) z) z)))) (* x (* (* z (* (* (* (* y x) y) (* (* (* (* x (* x z)) y) z) y)) x)) (* y x)))))) (* x x)))) x)) x)) (* z x)) z))))) z) z) y) (* y (* y z))) (* (* (* (* (* x y) y) x) (* (* x (* (* (* (* x z) z) y) x)) (* x (* (* y z) y)))) (* (* (* (* (* x x) (* y (* (* (* x x) (* y (* (* (* x (* (* z z) (* x (* x (* z (* (* (* (* x y) (* (* (* y z) (* x (* (* (* z z) (* y x)) z))) x)) y) z)))))) y) x))) z))) z) z) (* y (* (* y y) z)))))) (* z (* x (* y (* (* (* (* (* x (* (* (* y (* x x)) (* (* z z) y)) z)) (* x (* (* z z) (* (* z (* (* (* (* (* y (* (* x (* x z)) (* (* (* y z) x) (* (* y (* y x)) x)))) z) (* (* (* y z) z) x)) (* (* (* (* (* x y) x) x) (* z (* z z))) z)) x)) x)))) (* (* (* y (* z (* x y))) z) (* z y))) (* (* y z) x)) z)))))\
+Points: 381\
+Average points: 395.362\
+Success!\
+\{:success true, :generation 142, :nanoseconds 2525354723000\}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \
+\
+explain what these algebra's are, then maybe term definitions\
+\
+(def a1 '((2 1 2)\
+          (1 0 0)\
+          (0 0 1)))\
+\
+(def a2 '((2 0 2)\
+          (1 0 2)\
+          (1 2 1)))\
+\
+(def a3 '((1 0 1)\
+          (1 2 0)\
+          (0 0 0)))\
+\
+(def a4 '((1 0 1)\
+          (0 2 0)\
+          (0 1 0)))\
+\
+(def a5 '((1 0 2)\
+          (1 2 0)\
+          (0 1 0)))\
+\
+(def b1\
+  '((1 3 1 0)\
+    (3 2 0 1)\
+    (0 1 3 1)\
+    (1 0 2 0)))\
+\
+Discriminator:\
+t^A (x; y; z) = x if x not= y, else z if x = y\
+\
+Mal'cev:\
+m(x; x; y) =m(y; x; x)=  y\
+\
+Majority:\
+j(x; x; y) =j(y; x; x) =j(x; y; x) =x\
+\
+Pixley:\
+p(x; x; y) = p(y; x; x) = y \
+and \
+p(x; y; x) =x\
+\
+Have been working with the cluster to make these terms for different algebras multiple times to see how effective lexical selection is.  Currently we do not have a considerable amount of data.  We have done most of our iteration on b1, as it is the hardest problem.  When not using lexicase selection, we consistently hit a local minimum.  I.E. it found an expression that was close enough to a discriminator, but any change made the terms worse.  However lexicase selection on a b1 discriminator doesn't terminate until it hits the generation limit.\
+\
+\
+future work\
+We will continue to work on comparing lexicase selection to not using it.  Of course there are many other techniques, so we need to provide a range of methods to compare, as rather than 'have it' to 'not have it', we are really comparing one method to another.  \
+\
+Can still streamline and get better at using the cluster, for example only printing out results, and only to a single aggregation file.\
+\
+We may look into finding a b1 discriminator and majority term with lexicase selection, which still has not been achieved.\
+}

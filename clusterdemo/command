@@ -1,0 +1,1 @@
+java -cp /home/jamm11/clusterdemo:./*: clojure.main -i core.clj | tee out
